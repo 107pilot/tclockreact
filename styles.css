@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+}
+
+html, body {
+  margin: 0; 
+  height: 100%;
+  overflow: hidden;
+  background-color: black;
+}
+
+.location {
+  font-family: "Great Vibes", cursive;
+  font-size: 74pt;
+ 
+}
+
+.time {
+  font-family: "Roboto", sans-serif;
+  font-size: 74pt;
+
+}
+
+ul {
+  color: white;
+}
+
+.status {
+  
+  width: 5%;
+}
+
+.tide {
+  width: 5%;
+}
